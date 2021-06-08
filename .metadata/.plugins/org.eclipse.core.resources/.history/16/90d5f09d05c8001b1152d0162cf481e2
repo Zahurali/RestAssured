@@ -1,0 +1,5 @@
+package RestAssured.RestAPI;
+
+public class SimpleGetTest {
+
+}
